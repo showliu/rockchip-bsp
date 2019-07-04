@@ -13,3 +13,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = ../kernel.git
+[submodule "debian-arm64-rootfs"]
+	path = debian-arm64-rootfs
+	url = https://github.com/SX-GitHub/debian-arm64-rootfs.git
